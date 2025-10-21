@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kotlinhw</string>
+    <string name="label_name">Имя</string>
+    <string name="error_name_required">Имя обязательно</string>
+    <string name="label_age">Возраст</string>
+    <string name="label_gender">Пол</string>
+    <string name="gender_male">Мужской</string>
+    <string name="gender_female">Женский</string>
+    <string name="subscribe_text">Хочу получать новости</string>
+    <string name="button_submit">Отправить</string>
+    <string name="summary_title">Результат</string>
+    <string name="summary_name">Имя: %1$s</string>
+    <string name="summary_age">Возраст: %1$d</string>
+    <string name="summary_gender">Пол: %1$s</string>
+    <string name="summary_subscribed">Подписка: %1$s</string>
+    <string name="yes">да ✅</string>
+    <string name="no">нет</string>
+    <string name="avatar_description">Аватар пользователя</string>
+</resources>
